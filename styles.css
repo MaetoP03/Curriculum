@@ -16,7 +16,7 @@ body {
 header {
     text-align: center;
     padding: 20px 0;
-    background-color: #cc0000;
+    background-color: #b69520;
     color: white;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -40,12 +40,25 @@ section {
     margin-bottom: 20px;
 }
 
+section h3{
+    font-size: 1.5rem;
+    color: #cc0000;
+}
+
+section h5{
+    font-size: 1.5rem;
+    color: #cc0000;
+}
+ 
 section h2 {
     font-size: 1.5rem;
     color: #cc0000;
     border-bottom: 2px solid #cc0000;
     margin-bottom: 10px;
 }
+ section p1 {
+    font-size: large;
+ }
 
 section p, section ul {
     font-size: 1rem;
